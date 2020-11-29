@@ -1,0 +1,11 @@
+{
+  "name": "maple-dl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "node-device-detector": "^1.3.0"
+  }
+}
